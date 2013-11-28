@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>
+      Macroexpand: Projects
+    </title>
+    <link rel="stylesheet" type="text/css" href="./inc/style.css" media="all" />
+  </head>
+  <body>
+    <div id="header">
+      <div id="title-text">
+        <a href="http://www.macroexpand.com/"><img src="img/logo-small.png"
+        alt="[logo]" /></a> macroexpand.com
+      </div>
+      <div id="menu">
+        <a href="index.html"><span class="menu-item">home</span></a>
+        <a href="team.html"><span class="menu-item">team</span></a>
+        <a href="projects.html"><span class="menu-item">projects</span></a>
+      </div>
+    </div>
+    <div id="wrapper">
+      <div id="content">
+        <h1><a name="1" class="anchor">Projects</a></h1>
+        <div class="post">
+          Macroexpand, Inc. has several active projects, spanning multiple
+          disciplines.  Here, you'll find an up-to-date list on their status.
+        </div>
+        <h1><a name="2" class="anchor">Infrastructure</a></h1>
+        <div class="post">
+          Hardware resources available include this VPS, a FreeBSD workstation,
+          and a Windows box.  Most of the upgrades here are complete, with only
+          OS upgrades to the VPS and workstation remaining.  Following this,
+          additional network services (including company email) will be
+          deployed.
+          <p>
+            <span class="sub-item">VPS</span>: macroexpand.com is a
+            RootBSD-hosted VPS, running FreeBSD 8.1-REL i386 on their "Iota"
+            plan (256MB RAM, 10GB disk space, and 125GB/mo. bandwidth).  This
+            server has been around since about 2000 in various incarnations,
+            most recently as cellblock.homeunix.com (which will continue
+            redirecting here), and is also accessible as muze.x.rootbsd.net.
+          </p>
+          <p>
+            <span class="sub-item">FreeBSD workstation</span>: The main
+            development workstation and general usage machine (where this site
+            was until recently hosted) runs FreeBSD 8.0.  Normally, it'd still
+            be hosted there, but our current ISP blocks outbound ports 80 and
+            443.
+          </p>
+          <p class="images">
+            <a href="./img/fbsd_8_1.png">
+              <img src="./img/fbsd_8_1t.png" alt="fbsd_8" class="photo" />
+            </a>
+            <br />
+            [1920x1200, 53KB]
+          </p>
+          <p>
+            This uses the xmonad WM to primarily manage urxvt terminals which
+            run zsh shells and an emacs -nw session under GNU screen.  In Nov
+            2009, this machine was rebuilt to use no moving parts and minimal
+            power consumption.  Our primary exocortex currently consists of:
+          </p>
+          <div class="code">
+            <pre>
+    Motherboard:  Intel Desktop Board D945GSEJT (onboard Atom n270 and Intel 945GME)
+    RAM:          Super Talent 2GB 200-Pin DDR2 SO-DIMM DDR2 800
+    SSD:          OCZ Vertex Series OCZSSD2-1VTX30G 30GB
+    Case:         Morex T-1610
+    Keyboard:     IBM Model M
+    Monitor:      Dell UltraSharp U2410</pre>
+          </div>
+          The idea for this setup comes from <a 
+          href="http://www.silentpcreview.com/Intel_D945GSEJT_with_Morex_T1610">this</a>
+          Silent PC Review article, except there's an SSD and different RAM
+          here.
+          <p>
+            <span class="sub-item">Windows workstation</span>: This Windows
+            machine was rebuilt in 2013 for games and hosting VMs. It runs
+            Windows 7 Home Edition. It's nothing special, but usable:
+          </p>
+          <p class="images">
+            <a href="./img/win7he.png">
+              <img src="./img/win7he_t.png" alt="2k8_enterprise" class="photo"
+              />
+            </a>
+            <br />
+            [1920x1200, 79KB]
+          </p>
+          <p>
+            This shares peripherals via KVM switch with the FreeBSD
+            workstation.  Unlike it, however, it was built with some minor
+            beef:
+          </p>
+          <div class="code">
+            <pre>
+    Motherboard:  Intel BOXDZ77SL50K LGA 1155 Intel Z77 ATX
+    CPU:          Intel Core i3-3240 Ivy Bridge 3.4GHz LGA 1155
+    Heatsink:     Cooler Master Hyper 212 EVO RR-212E-20PK-R2
+    Vidcard:      EVGA 02G-P4-2660-KR GeForce GTX 660 2GB
+    RAM:          Corsair XMS3 16GB (2 x 8GB) 240-Pin DDR3 1600
+    SSD:          Intel 520 Series SSDSC2CW180A3K5 2.5"
+    PWS:          SeaSonic SSR-450RM 450W ATX12V / EPS12V
+    DVD-RW:       Lite-On Slim 8X DVD Burner
+    Case:         Lian Li PC-V1100BPlus II Black Aluminum ATX
+    Case fans:    Scythe S-FLEX SFF21E 120mm x3
+    HD:           Western Digital VelociRaptor WD3000GLFS 300GB
+    HD:           Seagate Barracuda 7200.10 ST3750640AS 750GB</pre>
+          </div>
+          <p>
+            Apart from these workstations, the LAN sometimes includes an EEEpc
+            1000 running some GNU/Linux distribution.
+          </p>
+        </div>
+        <h1><a name="3" class="anchor">Research</a></h1>
+        <div class="post">
+          Several research threads are currently on-going.  These will be
+          elaborated further upon in the future.  White papers or essays of
+          particularly note-worthy findings may also be published.
+        </div>
+      </div>
+      <div id="sidebar">
+        <div class="side-header">
+          projects
+        </div>
+        <div class="side-content">
+          <ul class="nav-list">
+            <li><a href="#1">projects</a></li>
+            <li><a href="#2">infrastructure</a></li>
+            <li><a href="#3">research</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <div class="copy">&copy;2013 Macroexpand, Inc.&nbsp;</div>
+    </div>
+  </body>
+</html>
+

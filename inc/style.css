@@ -1,0 +1,144 @@
+/* macroexpand.com */
+body {
+    font-family: sans-serif;
+    color: #E2EBDA;
+    background-color: #1D1E27;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: #FFFFFF;
+}
+/* For compatibility with old xulrunner. */
+a img {
+    border: 0px;
+}
+h1 {
+    font-size: 19px;
+    border-bottom: 1px solid #696969;
+    margin-bottom: 15px;
+}
+#header {
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: #DADBE3;
+    border-bottom: 9px solid #393B4D;
+}
+#title-text {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    line-height: 1.2em;
+    font-weight: bolder;
+    color: #1D1E27;
+}
+#menu {
+    float: right;
+    padding-right: 20px;
+    position: relative;
+    top: -22px;
+}
+.menu-item {
+    float: left;
+    vertical-align: bottom;
+    border-top: 1px solid #696969;
+    border-right: 1px solid #696969;
+    padding-right: 13px;
+    padding-left: 13px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: #393B4D;
+    font-weight: bold;
+    font-size: 13px;
+    z-index: 1;
+    /* For compatibility with old IE. */
+    background-image: url('img/spacer.gif');
+}
+.menu-item:hover {
+    background-color: #23242F;
+    text-decoration: underline;
+}
+#wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 45px;
+}
+#content {
+    float: left;
+    width: 75%;
+}
+#sidebar {
+    padding-top: 23px;
+    float: right;
+    width: 20%;
+}
+.nav-list {
+    text-indent: -2em;
+    list-style-type: none;
+}
+.nav-list li:before {
+    content: "\0BB \020";
+}
+#footer {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    border-top: 1px solid #393B4D;
+    padding-top: 5px;
+}
+#clear {
+    clear: both;
+}
+.side-header {
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid #696969;
+    margin-bottom: 10px;
+}
+.side-content {
+    line-height: 19px;
+    margin-bottom: 20px;
+}
+.post {
+    line-height: 20px;
+    margin-bottom: 35px;
+}
+.photo {
+    border: 2px solid #393B4D;
+}
+.images {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    font: x-small verdana;
+}
+.code {
+    font-size: 11px;
+    background-color: #2B2C36;
+    border: 1px solid #696969;
+    padding: 1px;
+    margin-bottom: 30px;
+}
+td {
+    font-size: 13px;
+    font-family: sans-serif;
+    vertical-align: top;
+}
+.copy {
+    width: 100%;
+    text-align: right;
+    font-size: 9px;
+    padding-bottom: 5px;
+}
+.sub-item {
+    text-decoration: underline;
+}
+td.team-desc {
+    width: 40%;
+}
+.anchor {
+    color: #E2EBDA;
+}
+
