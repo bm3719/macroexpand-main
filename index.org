@@ -44,8 +44,8 @@ theorem proving.
 ** Hosting
 
 If you'd like a shell account for low-throughput development or website
-hosting, send an email via the contact link on the right column.  No promises
-are made regarding quality of service, however.
+hosting, send an email via the contact info below.  No promises are made
+regarding quality of service, however.
 
 * Contact
 
