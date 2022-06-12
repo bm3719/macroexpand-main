@@ -1,0 +1,52 @@
+#+STARTUP: content
+#+TITLE: Macroexpand Inc
+#+OPTIONS: ^:{}
+#+OPTIONS: num:nil
+#+OPTIONS: tex:t
+#+OPTIONS: title:nil
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://cdn.simplecss.org/simple.min.css" />
+#+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon.png" />
+
+#+begin_header
+#+ATTR_HTML: :alt [Banner]
+[[file:./img/logo-small.png]]
+#+end_header
+
+* Macroexpand
+
+Macroexpand, Inc. is a research/concept-stage software development company
+headquartered in the great state of West Virginia.  Our current focus is on
+data analytics and modeling in functional programming languages.  Given
+existing functional programming ecosystems, a focus on the practical
+applications of the higher-order abstractions possible within them is a
+secondary priority.
+
+The name Macroexpand comes from the [[http://www.lispworks.com/documentation/HyperSpec/Body/f_mexp_.htm][function]] of the same name in ANSI Common
+Lisp. This function is also implemented in other Lisp variants, including our
+primary language of choice, Clojure.
+
+* Services
+
+** Data analytics
+
+If your corporation has a data analysis problem, Macroexpand knows how to
+extract meaning from it (assuming there is any).  Contact us to negotiate a
+freelance contract.
+
+** Full-spectrum theory-crafting
+
+If your domain can be formalized and reasoned about, we can model it.  We have
+in-house specialization in the novel application of language theory, type
+theory (particularly dependent types), provably correct software, and automated
+theorem proving.
+
+** Hosting
+
+If you'd like a shell account for low-throughput development or website
+hosting, send an email via the contact link on the right column.  No promises
+are made regarding quality of service, however.
+
+* Contact
+
+[[https://macroexpand.com/~bm3719][bm3719]] at tutanota · com
