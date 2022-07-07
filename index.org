@@ -5,7 +5,7 @@
 #+OPTIONS: tex:t
 #+OPTIONS: title:nil
 #+OPTIONS: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/holiday.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://writ.cmcenroe.me/1.0.4/writ.min.css" />
 #+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon.png" />
 
 #+begin_header
