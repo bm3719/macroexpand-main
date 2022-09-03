@@ -28,25 +28,76 @@ primary language of choice, Clojure.
 
 * Services
 
-** Data analytics
+** Freelance services
 
-If your corporation has a data analysis problem, Macroexpand knows how to
-extract meaning from it (assuming there is any).  Contact us to negotiate a
-freelance contract.
+A subset of services available:
+- If your corporation has a data analysis problem, Macroexpand knows how to
+  extract meaning from it (assuming there is any).
+- If your domain can be formalized and reasoned about, we can model it.  We
+  have in-house specialization in the novel application of language theory,
+  type theory (particularly dependent types), provably correct software, and
+  automated theorem proving.
+- General, temporary-CTO services, centering the development side of your
+  business around functional programming, crafting a strategy for team
+  migration/formation, full-spectrum theory-crafting, and similar assistance
+  are available.
 
-** Full-spectrum theory-crafting
+Preference on our end is for a service agreement composed of the delivery of
+some whole number of work units, each equivalent to a weekly full-time effort.
+These may or may not line up with calendar weeks, conditional on available
+bandwidth.
 
-If your domain can be formalized and reasoned about, we can model it.  We have
-in-house specialization in the novel application of language theory, type
-theory (particularly dependent types), provably correct software, and automated
-theorem proving.
+** General business services
 
-** Hosting
+Also available are services related to technical writing, editing,
+ghostwriting, and assistance with academic and industry papers.  A list of
+projects completed by the company member providing these services is available
+upon request.
 
-If you'd like a shell account for low-throughput development or website
-hosting, send an email via the contact info below.  No promises are made
-regarding quality of service, however.
+** Seasonal produce and seeds
+
+Most years, the location of our physical headquarters also produces and
+abundance of fresh vegetables, fruit, eggs, and heirloom seeds.  These vary by
+year and time of year.  If you're near Hampshire County, WV, arrangements can
+be made for the purchase of produce, or the planting of extra for intended
+future purchase.  Seeds can be mailed anywhere in the world.
+
+We also have 2 custom-made and completely unique strains, with seeds available
+for distribution.  Those are:
+- The Bromato F4 (4th filial gen): A select cross-breeding of locally popular
+  strains of cherry and slicer tomatoes.  Grows to about 1.5-2" in diameter.
+  Starts producing early in the season and continues a consistent harvest all
+  year.  A versatile size, great in salads and focaccia.  Very prolific.
+- The MyThai F3 (3rd filial gen) pepper: A rare, random cross between Burpee's
+  mini-Thai and early Jalapeño peppers, this 1-1.5" pepper ripens to a bright,
+  uncorked red with medium wall thickness.  Retains full Thai pepper flavor.
+  Heat levels are extreme for a Thai pepper, estimated roughly at 80000-100000
+  SHU.  With proper pruning and care, can serve as an indoor ornamental pepper.
+
+Check back here for the 2023 seed list, coming in Fall 2022.
+
+A small orchard is in the process of being built and is hoped to be functional
+before 2028 or so.
+
+** Hunting
+
+A single, spacious tree stand is available for rent, overlooking a ravine
+popular for whitetail deer to travel through and good for a sub-100yd shot with
+hunting revolver or bush rifle.  Bring chairs and blind material of your choice
+for an easy day of hunting with the ability to use your electronic devices
+while waiting.
+
+Cost to book during buck firearms and doe seasons is $200/day.  Recommended
+tree stand capacity is 1 or 2 persons.  A valid WV hunting license,
+safe/ethical hunting behavior, and following all state hunting regulations are
+strictly required.  Due to the location of property lines, we also reserve the
+right to approve choice of chambering to minimize the inconvenience of quarry
+requiring trailing across multiple properties.  Stand is not available for
+muzzleloader or bow seasons, nor for any other game animal.
 
 * Contact
 
-[[https://macroexpand.com/~bm3719][bm3719]] at tutanota · com
+Feel free to contact us for any of the services/products listed here, or even
+if you feel compelled to explore us as an option for things not listed.
+
+[[https://macroexpand.com/~bm3719][bm3719]] ατ tutanota · com
