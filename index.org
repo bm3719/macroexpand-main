@@ -5,7 +5,7 @@
 #+OPTIONS: tex:t
 #+OPTIONS: title:nil
 #+OPTIONS: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://writ.cmcenroe.me/1.0.4/writ.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./inc/writ.css" />
 #+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon.png" />
 
 #+begin_header
@@ -16,7 +16,7 @@
 * Macroexpand
 
 Macroexpand, Inc. is a research/concept-stage software development company
-headquartered in the great state of West Virginia.  Our current focus is on
+headquartered in the great state of West Virginia.  Our primary focus is on
 data analytics and modeling in functional programming languages.  Given
 existing functional programming ecosystems, a focus on the practical
 applications of the higher-order abstractions possible within them is a
@@ -26,9 +26,17 @@ The name Macroexpand comes from the [[http://www.lispworks.com/documentation/Hyp
 Lisp. This function is also implemented in other Lisp variants, including our
 primary language of choice, Clojure.
 
+Macroexpand also offers a range of other general business services and serves
+the needs of the local community near our 20 acre property in the mountains of
+West Virginia.  Some of the latter are now being experimentally provided online
+as well.  This may seem eclectic, but the collection of services as a whole can
+be thought of as the forms of the high-value excess capacity we currently have
+available and are happy to supply the outside world.  Feel free to explore
+those services below.
+
 * Services
 
-** Freelance services
+** Freelance software development services
 
 A subset of services available:
 - If your corporation has a data analysis problem, Macroexpand knows how to
@@ -51,35 +59,43 @@ bandwidth.
 
 Also available are services related to technical writing, editing,
 ghostwriting, and assistance with academic and industry papers.  A list of
-projects completed by the company member providing these services is available
-upon request.
+projects completed by the company member providing these services, herself a
+published author, is available upon request.
 
-** Seasonal produce and seeds
+Macroexpand also has experience in patent research, and can complete a
+cost-effective, yet professional-grade, research package centered around your
+prospective intellectual property in any patent category.  Varying
+industry-standard grades of research depth are available.
 
-Most years, the location of our physical headquarters also produces and
-abundance of fresh vegetables, fruit, eggs, and heirloom seeds.  These vary by
-year and time of year.  If you're near Hampshire County, WV, arrangements can
-be made for the purchase of produce, or the planting of extra for intended
-future purchase.  Seeds can be mailed anywhere in the world.
+** Heirloom seeds
 
-We also have 2 custom-made and completely unique strains, with seeds available
-for distribution.  Those are:
-- The Bromato F4 (4th filial gen): A select cross-breeding of popular strains
-  of cherry and slicer tomatoes.  Grows to about 1.5-2" in diameter.  Starts
-  producing early in the season and continues a consistent harvest all year.  A
-  versatile size, great in salads and focaccia.  Very prolific.
-- The MyThai F3 (3rd filial gen) pepper: A rare, random cross between Burpee's
-  mini-Thai and early Jalapeño peppers, this 1-1.5" pepper ripens to a bright,
-  uncorked red with medium wall thickness.  Retains full Thai pepper flavor.
-  Heat levels are high for a Thai pepper, estimated roughly at 100000 SHU or
-  more.  With proper pruning and care, this can also serve as an indoor
-  ornamental pepper.
+The members of Macroexpand are committed to the concepts of food independence,
+small scale farming without pesticides, and zero waste to the extent possible
+in the modern world.  We feed ourselves, but also provide food products to our
+local community.  The fruits and vegetables we grow here are all of the
+heirloom variety, and seeds from them are now available here online, ready to
+be mailed to you.
+
+Of particular note are 2 custom-made and completely unique lineages, now
+reasonably stabilized and available for distribution.  Those are:
+
+[[file:./img/bromato.png]]
+
+The Bromato F4 (4th filial gen): A select cross-breeding of popular strains of
+cherry and slicer tomatoes.  Grows to about 1-1.25" in diameter.  Starts
+producing early in the season and perpetuates a consistent output all year.  A
+versatile size, great in salads and focaccia.  Very prolific.
+
+[[file:./img/mythai.png]]
+
+The MyThai F3 (3rd filial gen) pepper: A rare, random cross between Burpee's
+mini-Thai and early Jalapeño peppers, this 1-1.5" pepper ripens to a bright,
+uncorked red with medium wall thickness.  Retains full Thai pepper flavor.
+Heat levels are high for a Thai pepper, estimated roughly at 100000 SHU or
+more.  With proper pruning and care, it can also serve as an indoor ornamental
+pepper.
 
 Check back here for the 2023 seed list, coming in Fall 2022.
-
-A small orchard with fruit and nut trees is in the process of being built and
-is hoped to be producing before 2028 or so.  Updates forthcoming should that
-occur.
 
 ** Leathercraft
 
