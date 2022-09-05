@@ -36,7 +36,13 @@ those services below.
 
 * Services
 
-** Freelance software development services
+** Freelance software services
+
+Macroexpand's specialty is specifically in the intersection of functional
+programming (and adjacent fields) with data processing (specifically ETL,
+modeling, analysis, and data-related system architecture).  Consider
+Macroexpand if you have data of some size and want to explore the use
+functional languages operating against this data.
 
 A subset of services available:
 - If your corporation has a data analysis problem, Macroexpand knows how to
@@ -63,9 +69,10 @@ projects completed by the company member providing these services, herself a
 published author, is available upon request.
 
 Macroexpand also has experience in patent research, and can complete a
-cost-effective, yet professional-grade, research package centered around your
-prospective intellectual property in any patent category.  Varying
-industry-standard grades of research depth are available.
+professional-grade research package centered around your prospective
+intellectual property in any patent category.  Varying industry-standard grades
+of research depth are available.  This can be a thorough yet cost-effective
+preliminary step in your patent pre-application procedures.
 
 ** Heirloom seeds
 
@@ -89,11 +96,10 @@ versatile size, great in salads and focaccia.  Very prolific.
 [[file:./img/mythai.png]]
 
 The MyThai F3 (3rd filial gen) pepper: A rare, random cross between Burpee's
-mini-Thai and early Jalapeño peppers, this 1-1.5" pepper ripens to a bright,
-uncorked red with medium wall thickness.  Retains full Thai pepper flavor.
-Heat levels are high for a Thai pepper, estimated roughly at 100000 SHU or
-more.  With proper pruning and care, it can also serve as an indoor ornamental
-pepper.
+mini-Thai and early Jalapeño peppers, this 1-1.5" pepper ripens late season to
+a bright red.  Retains full Thai pepper flavor.  Heat levels are high for a
+Thai pepper, estimated roughly at 100000 SHU or more.  With proper pruning and
+care, it can also serve as an indoor ornamental pepper.
 
 Check back here for the 2023 seed list, coming in Fall 2022.
 
