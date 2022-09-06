@@ -86,6 +86,8 @@ be mailed to you.
 Of particular note are 2 custom-made and completely unique lineages, now
 reasonably stabilized and available for distribution.  Those are:
 
+#+ATTR_HTML: :alt Bromato
+#+ATTR_HTML: :style border:2px solid;
 [[file:./img/bromato.png]]
 
 The Bromato F4 (4th filial gen): A select cross-breeding of popular strains of
@@ -93,6 +95,8 @@ cherry and slicer tomatoes.  Grows to about 1-1.25" in diameter.  Starts
 producing early in the season and perpetuates a consistent output all year.  A
 versatile size, great in salads and focaccia.  Very prolific.
 
+#+ATTR_HTML: :alt MyThai
+#+ATTR_HTML: :style border:2px solid;
 [[file:./img/mythai.png]]
 
 The MyThai F3 (3rd filial gen) pepper: A rare, random cross between Burpee's
