@@ -1,10 +1,10 @@
 * macroexpand-main
 
-The top-level site on macroexpand.com.
+The top-level site on [[https://macroexpand.com][macroexpand.com]].
 
-This is a static content HTML5/CSS site without anything too
-fancy in it.  I've made this public and GPL-ed, so you're
-welcome to borrow/modify the design.
+This is a generated, static content site without anything too fancy in it.
+I've made this public and GPL-ed, so you're welcome to borrow/modify the
+design.
 
 ** Generating the site
 
