@@ -1,0 +1,38 @@
+* macroexpand-main
+
+The top-level site on macroexpand.com.
+
+This is a static content HTML5/CSS site without anything too
+fancy in it.  I've made this public and GPL-ed, so you're
+welcome to borrow/modify the design.
+
+** Generating the site
+
+This site uses Emacs Org mode to generate the HTML from an Org format file.  To
+do the same, =cons= something like this to your =org-publish-project-alist=
+variable:
+
+#+BEGIN_SRC emacs-lisp
+("main"
+ :base-directory "~/src/macroexpand-main"
+ :recursive nil
+ :publishing-directory "~/src/macroexpand-main"
+ :publishing-function org-html-publish-to-html
+ :with-author nil
+ :with-broken-links t
+ :with-creator nil
+ :html-validation-link nil
+ :html-postamble nil
+ :html-preamble nil
+ :exclude ".*"
+ :include ["index.org"])
+#+END_SRC
+
+Then you can run =C-c C-e P p= when you're finished making updates and Emacs
+will export the project to HTML.
+
+** CSS theme
+
+The CSS here is a fork of [[https://writ.cmcenroe.me/][writ]], an excellent minimal and CDN-available CSS
+theme.  I changed it to add things like lines under headings, tweaked margin
+settings, and some different colors.
