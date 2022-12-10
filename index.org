@@ -61,6 +61,14 @@ some whole number of work units, each equivalent to a weekly full-time effort.
 These may or may not line up with calendar weeks, conditional on available
 bandwidth.
 
+#+HTML: <div style="border: 2px solid #FFC0C0">
+
+Attention: Our services in this area are currently unavailable due to operating
+at capacity. However, we are still available for conversation and would be
+happy to assist you in any way we can.
+
+#+HTML: </div>
+
 ** General business services
 
 Also available are services related to technical writing, editing,
@@ -105,7 +113,7 @@ a bright red.  Retains full Thai pepper flavor.  Heat levels are high for a
 Thai pepper, estimated roughly at 100000 SHU or more.  With proper pruning and
 care, it can also serve as an indoor ornamental pepper.
 
-Check back here for the 2023 seed list, coming in Fall 2022.
+Attention: Full seed list will be available in Fall 2023.
 
 ** Leathercraft
 
