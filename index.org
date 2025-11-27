@@ -15,9 +15,10 @@
 
 * Macroexpand
 Macroexpand, Inc. is a non-existent software development company headquartered
-in the great state of West Virginia.  Our primary focus is on data analytics
-and modeling in functional programming languages.  Given existing functional
-programming ecosystems, a focus on the practical applications of the
+in the economically, culturally, and computationally challenged state of West
+Virginia.  Our primary focus is on data analytics and modeling in functional
+programming languages.  While taking existing functional programming languages
+and ecosystems as a given, a focus on the practical applications of the
 higher-order abstractions possible within them is a secondary priority.
 
 The name Macroexpand comes from the [[http://www.lispworks.com/documentation/HyperSpec/Body/f_mexp_.htm][function]] of the same name in ANSI Common
@@ -26,5 +27,10 @@ primary language of choice, Clojure.
 * Content
 This server hosts two personal pages, both with copious amounts of additional
 content you can read:
-- [[~/bm3719][~/bm3719]]
-- [[~/sisface][~/sisface]]
+- [[./~bm3719][/~bm3719]]
+- [[./~sisface][/~sisface]]
+* Contact
+Business or personal emails will be responded to (usually).
+
+bm3719 ατ tutanota · com
+@@html:<div style="margin-bottom: 10px;"></div>@@
