@@ -5,17 +5,34 @@
 #+OPTIONS: tex:t
 #+OPTIONS: title:nil
 #+OPTIONS: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./inc/writ.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./inc/terminal.css" />
 #+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon.png" />
 
-#+begin_header
-#+ATTR_HTML: :alt [Banner]
-[[file:./img/logo-small.png]]
-#+end_header
+@@html:<div style="text-align:center; border:0; outline:0">@@
+@@html:<pre class="ascii-art">@@
+     λλλλλλ
+    λλλλλλλλ
+   λλλλλλλλλλ
+   λλλλλλλλλλλ
+   λλ   λλλλλλλ
+         λλλλλλλ
+          λλλλλλλ
+          λλλλλλλλ
+         λλλλλλλλλλ
+        λλλλλλλλλλλλ
+       λλλλλ  λλλλλλλ
+      λλλλλ    λλλλλλλ
+     λλλλλ      λλλλλλλ
+    λλλλλ        λλλλλλλ
+   λλλλλ          λλλλλλλλλ
+  λλλλλ            λλλλλλλλλ
+ λλλλλ              λλλλλλλλ
+@@html:</pre>@@
+@@html:</div>@@
 
 * Macroexpand
 Macroexpand, Inc. is a non-existent software development company headquartered
-in the economically, culturally, and computationally challenged state of West
+in the economically, culturally, and computationally-challenged state of West
 Virginia.  Our primary focus is on data analytics and modeling in functional
 programming languages.  While taking existing functional programming languages
 and ecosystems as a given, a focus on the practical applications of the
